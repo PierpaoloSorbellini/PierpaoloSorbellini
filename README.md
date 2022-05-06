@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm currently working at [Nebuly](www.nebuly.ai), learning how to optimize AI. 
+
+If you are intrested in the topic and want to share some ideas contact me.
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pierpaolo-sorbellini-64603012b/)
+
 <!--
 **PierpaoloSorbellini/PierpaoloSorbellini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
